@@ -5,4 +5,3 @@ st.set_page_config(
 )
 
 st.title("Main Page")
-st.sidebar.success("Pages")
